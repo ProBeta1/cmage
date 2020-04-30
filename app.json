@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "lol",
-    "slug": "lol",
+    "name": "Cmage",
+    "slug": "cmage",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "A basic app which searches for HD images using the unsplash API"
   }
 }
